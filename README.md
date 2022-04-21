@@ -24,8 +24,8 @@ Aspiring Data Scientist
 * 🌍  I'm based in Hyderabad
 * 🧠  I'm currently learning (yet to start) Statistics, Maths for ML and Machine Learning
 * 🤝  I'm open to collaborating on projects based on Python, Flask/Django and Data Science
-*  😄 Pronouns: He/Him
-*  ⚡ Fun fact: I'm a bit lazy...so, I design tools to complete my works easier/faster
+* 😄  Pronouns: He/Him
+* ⚡  Fun fact: I'm a bit lazy...so, I design tools to complete my works easier/faster
 
 ### Skills
 
