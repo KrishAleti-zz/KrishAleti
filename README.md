@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Hey there 👋, I'm Krishna Aleti
 ==============================
 
-Python Developer | Aspiring Data Scientist
+Python Developer | Aspiring ...
 -----------------------
 
 * 🌍 I'm based in Hyderabad
